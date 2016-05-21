@@ -148,3 +148,7 @@ width: auto;
     width: 300px;
     margin: auto;
 }
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
